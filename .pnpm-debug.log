@@ -1,0 +1,23 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: rimraf",
+      "code": "ENOENT",
+      "stack": "Error: not found: rimraf\n    at getNotFoundError (C:\\Users\\oro36\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.15.1\\node_modules\\pnpm\\dist\\pnpm.cjs:47672:51)\n    at Function.whichSync [as sync] (C:\\Users\\oro36\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.15.1\\node_modules\\pnpm\\dist\\pnpm.cjs:47749:13)\n    at getCommandAbsolutePathSync (C:\\Users\\oro36\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.15.1\\node_modules\\pnpm\\dist\\pnpm.cjs:49485:44)\n    at Object.default_1 [as default] (C:\\Users\\oro36\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.15.1\\node_modules\\pnpm\\dist\\pnpm.cjs:49494:32)\n    at C:\\Users\\oro36\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.15.1\\node_modules\\pnpm\\dist\\pnpm.cjs:129705:34"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "C:\\Users\\oro36\\lab",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: rimraf",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: rimraf\n    at getNotFoundError (C:\\Users\\oro36\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.15.1\\node_modules\\pnpm\\dist\\pnpm.cjs:47672:51)\n    at Function.whichSync [as sync] (C:\\Users\\oro36\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.15.1\\node_modules\\pnpm\\dist\\pnpm.cjs:47749:13)\n    at getCommandAbsolutePathSync (C:\\Users\\oro36\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.15.1\\node_modules\\pnpm\\dist\\pnpm.cjs:49485:44)\n    at Object.default_1 [as default] (C:\\Users\\oro36\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.15.1\\node_modules\\pnpm\\dist\\pnpm.cjs:49494:32)\n    at C:\\Users\\oro36\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.15.1\\node_modules\\pnpm\\dist\\pnpm.cjs:129705:34"
+    }
+  }
+}
